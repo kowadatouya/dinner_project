@@ -1,1 +1,4 @@
-# dinner_project
+# dinner_project  
+- メイン料理 カレーライス  
+- 副菜 ポテトサラダ
+- スープ オニオンスープ  
