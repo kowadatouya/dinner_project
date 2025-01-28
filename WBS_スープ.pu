@@ -1,0 +1,10 @@
+@startwbs オニオンスープを作るWBS
+title オニオンスープを作るWBS
+
+* オニオンスープを作る
+**[#pink] 玉ねぎの処理
++++[#SkyBlue] 玉ねぎを洗う
++++[#SkyBlue] 玉ねぎを切る
+**[#pink] スープを作る
++++[#SkyBlue] お湯を沸かす
++++[#SkyBlue] 盛り付ける
