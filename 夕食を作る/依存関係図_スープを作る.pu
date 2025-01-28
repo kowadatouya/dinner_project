@@ -1,0 +1,12 @@
+@startuml スープを作る
+
+title 依存関係図 スープを作る
+start
+fork
+    :お湯を沸かす;
+    :玉ねぎの処理;
+    :スープを作る;
+end fork
+stop
+
+@enduml

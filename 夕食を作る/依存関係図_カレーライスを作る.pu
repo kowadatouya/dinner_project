@@ -1,0 +1,12 @@
+@startuml カレーライスを作る
+
+title 依存関係図 カレーライスを作る
+start
+fork
+    :ご飯を炊く;
+    :野菜の下処理をする;
+    :カレーを作る;
+end fork
+stop
+
+@enduml

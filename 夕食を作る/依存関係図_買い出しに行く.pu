@@ -1,0 +1,12 @@
+@startuml 買い出しを行く
+
+title 依存関係図 買い出し行く
+start
+fork
+    :銀行でお金をおろす;
+    :買い出しに行く;
+    :スーパーで材料を買う;
+end fork
+stop
+
+@enduml
