@@ -1,0 +1,16 @@
+@startwbs カレーライスを作るWBS
+title カレーライスを作るWBS
+
+* カレーライスを作る
+**[#pink] ご飯を炊く
++++[#SkyBlue] 米を研ぐ
++++[#SkyBlue] 水を計っていれる
++++[#SkyBlue] 炊飯器で炊く
+**[#pink] 野菜の下処理をする
++++[#SkyBlue] 野菜を洗う
++++[#SkyBlue] 皮をむく
++++[#SkyBlue] 野菜を切る
+**[#pink] カレーを作る
++++[#SkyBlue] お湯を沸かす
++++[#SkyBlue] ルーを溶かす
++++[#SkyBlue] 切った具を入れる
