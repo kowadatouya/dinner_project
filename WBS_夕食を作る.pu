@@ -1,0 +1,17 @@
+@startwbs 夕食を作るWBS
+title 夕食を作るWBS
+
+* 夕食を作る
+**[#pink] 買い出しに行く
++++[#SkyBlue] 銀行でお金をおろす
++++[#SkyBlue] スーパーで材料を買う
+**[#pink] カレーライスを作る
++++[#SkyBlue] ご飯を炊く
++++[#SkyBlue] 野菜の下処理をする
++++[#SkyBlue] カレーを作る
+**[#pink] ポテトサラダを作る
++++[#SkyBlue] 材料の下処理をする
++++[#SkyBlue] 味付け
+**[#pink] オニオンスープを作る
++++[#SkyBlue] 玉ねぎの処理
++++[#SkyBlue] スープを作る
