@@ -1,0 +1,12 @@
+@startuml 副菜を作る
+
+title 依存関係図 副菜を作る
+start
+fork
+    :材料の下処理をする;
+    :味付け;
+    :ポテトサラダを作る;
+end fork
+stop
+
+@enduml
