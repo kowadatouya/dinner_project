@@ -1,12 +1,11 @@
-@startuml 副菜を作る
-
-title 依存関係図 副菜を作る
+@startuml 副菜を作るアクティビティ図
 start
 fork
-    :材料の下処理をする;
-    :味付け;
-    :ポテトサラダを作る;
+    #Yellow:じゃがいもをつぶす;
+    #Yellow:野菜を切る;
+    #Yellow:ハムを短冊切りにする;
 end fork
+    #Yellow:マヨネーズで和える;
+    #Yellow:塩とこしょうで仕上げ;
 stop
-
 @enduml
