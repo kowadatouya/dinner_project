@@ -1,0 +1,15 @@
+@startwbs カレーライスを作るWBS
+title カレーライスを作るWBS
+
+* 買い出しに行く
+**[#pink] 野菜を買う
++++[#SkyBlue] 玉ねぎを買う
++++[#SkyBlue] 人参を買う
++++[#SkyBlue] じゃがいもを買う
++++[#SkyBlue] きゅうりを買う
+**[#pink] 肉とカレールーを買う
++++[#SkyBlue] 牛肉を買う
++++[#SkyBlue] ハムを買う
++++[#SkyBlue] カレールーを買う
+**[#pink] 銀行でお金をおろす
++++[#SkyBlue] 足りない場合それぞれがおろす
