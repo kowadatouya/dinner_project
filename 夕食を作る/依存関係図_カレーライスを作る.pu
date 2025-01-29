@@ -1,12 +1,16 @@
-@startuml カレーライスを作る
-
-title 依存関係図 カレーライスを作る
+@startuml カレーライスを作るアクティビティ図
 start
 fork
-    :ご飯を炊く;
-    :野菜の下処理をする;
-    :カレーを作る;
+    #Yellow:米を研ぐ;
+    #Yellow:水を計って入れる;
+    #Yellow:炊飯器で炊く;
+fork again
+    #Yellow:野菜を洗う;
+    #Yellow:皮をむく;
+    #Yellow:野菜を切る;
 end fork
+#Yellow:お湯を沸かす;
+#Yellow:ルーを溶かす;
+#Yellow:切った具を入れる;
 stop
-
 @enduml
