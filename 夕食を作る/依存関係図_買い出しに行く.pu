@@ -1,12 +1,15 @@
-@startuml 買い出しを行く
-
-title 依存関係図 買い出し行く
+@startuml 買い出しを行くのアクティビティ図
 start
 fork
-    :銀行でお金をおろす;
-    :買い出しに行く;
-    :スーパーで材料を買う;
+    #Yellow:足りない場合それぞれがおろす;
+fork
+    #Yellow:玉ねぎを買う;
+    #Yellow:人参を買う;
+    #Yellow:じゃがいもを買う;
+    #Yellow:きゅうりを買う;
+    #Yellow:牛肉を買う;
+    #Yellow:ハムを買う;
+    #Yellow:カレールーを買う;
 end fork
 stop
-
 @enduml
