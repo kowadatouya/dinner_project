@@ -1,12 +1,10 @@
-@startuml スープを作る
-
-title 依存関係図 スープを作る
+@startuml オニオンスープを作るアクティビティ図
 start
 fork
-    :お湯を沸かす;
-    :玉ねぎの処理;
-    :スープを作る;
+    #Yellow:玉ねぎを洗う;
+    #Yellow:玉ねぎを切る;
 end fork
+    #Yellow:お湯を沸かす;
+    #Yellow:盛り付ける;
 stop
-
 @enduml
